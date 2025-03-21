@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>면책 조항</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            text-align: center;
+        }
+        a {
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <h1>면책 조항</h1>
+    <p>이 앱은 기본적으로 정치인 정보를 제공하는 앱이며, 미국과 대한민국을 포함한 어떤 정부 기관과도 공식적으로 제휴하거나 협력하지 않습니다.</p>
+    <p>이 앱은 정부 기관 또는 공식 서비스를 대표하지 않으며, 제공된 정보의 정확성이나 최신성을 보장하지 않습니다. 제공된 정보를 기반으로 한 의사 결정과 사용에 대해 앱 개발자는 어떠한 법적 책임을 지지 않습니다.</p>
+    <p>앱에서 제공하는 정치인 정보는 다음과 같은 신뢰할 수 있는 공개 데이터에서 수집됩니다.</p>
+
+    <h2>미국</h2>
+    <ul>
+        <li><strong>대통령:</strong> <a href="https://www.usa.gov" target="_blank">usa.gov</a>, 
+            <a href="https://history.house.gov" target="_blank">history.house.gov</a>, 
+            <a href="https://www.archives.gov" target="_blank">archives.gov</a></li>
+        <li><strong>상원 & 하원:</strong> <a href="https://www.congress.gov" target="_blank">congress.gov</a>, 
+            <a href="https://bioguide.congress.gov" target="_blank">bioguide.congress.gov</a></li>
+        <li><strong>주지사:</strong> <a href="https://www.usa.gov/state-governor" target="_blank">usa.gov/state-governor</a>, 
+            <a href="https://gov.texas.gov" target="_blank">gov.texas.gov</a></li>
+    </ul>
+</body>
+</html>
